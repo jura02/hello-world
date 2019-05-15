@@ -14,3 +14,5 @@ TESTING
 #Hallo
 #Zusamman
                  Hello
+    package('package_name').define "OPTION", "VALUE"
+    
